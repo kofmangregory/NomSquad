@@ -18,7 +18,6 @@
 //   // An error happened.
 // });
 
-
 (function() {
 
   // Initialize Firebase
