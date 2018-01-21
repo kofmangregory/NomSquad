@@ -33,7 +33,5 @@ var formAnimator = {
 }
 
 window.addEventListener('DOMContentLoaded', function() {
-
   formAnimator.init();
-
 }, false);
